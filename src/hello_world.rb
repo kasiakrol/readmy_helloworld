@@ -4,7 +4,7 @@ rzeczy = ['kaktusy', 'banany', 'mojego psa', 'indie music']
 lista_zakupow = { 
     'kabel' => 9, 
     'etui' => 26, 
-    'monitor' => 759.60,
+    'monitor' =>560,
     'auto' => 56_704 
 }
 plyta_kodaline = { autor: 'Kodaline', tytul: 'Politics of Living' }
